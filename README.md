@@ -2,7 +2,7 @@
 
 Este es un proyecto de comercio electrónico desarrollado con el stack MERN (MongoDB, Express, React y Node.js). La aplicación permite a los usuarios navegar, buscar y comprar productos en línea, además de incluir un panel de administración para la gestión de productos, usuarios y pedidos.
 
-<img align="center" width=100% src="https://github.com/moisesromeropy/moisesromeropy/blob/main/E-commerce.png"   alt="VIDEO" /></a>
+<img align="center" width=100% src="https://github.com/moisesromeropy/PROYECTO-ECOMMERCE/blob/main/Ecommerce-1.PNG"   alt="VIDEO" /></a>
 ---
 
 ## Características
